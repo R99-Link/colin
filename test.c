@@ -1,8 +1,5 @@
 include <stdio.h>
 
-int main(){	
-	while(1)
-	{
-
-	}
+int main(){
+    printf("12312");
 }
